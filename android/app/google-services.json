@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "838879526767",
+    "firebase_url": "https://login-basico-a5677.firebaseio.com",
+    "project_id": "login-basico-a5677",
+    "storage_bucket": "login-basico-a5677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838879526767:android:6d63ea63049712ab8bf29a",
+        "android_client_info": {
+          "package_name": "br.com.max.login_basico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838879526767-dr9lf9gjstf3t5pjtsjofg1dmbi2ph69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv030Lad2j0MYrEbvzJ6FAOhDUuxoSDqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838879526767-dr9lf9gjstf3t5pjtsjofg1dmbi2ph69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
